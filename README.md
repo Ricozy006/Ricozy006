@@ -1,7 +1,7 @@
 # Hey 👋
 
 ## 🧑‍💻 About Me
-My name is **Riczy** and I'm passionate about **cybersecurity**, **network management**, and **web development**.  
+My name is **Rico** and I'm passionate about **cybersecurity**, **network management**, and **web development**.  
 I love exploring how things work “under the hood” and improving my skills every day.
 
 ---
