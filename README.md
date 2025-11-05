@@ -17,4 +17,4 @@ I love exploring how things work “under the hood” and improving my skills ev
 ---
 
 ## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/Ricozy9999](https://guns.lol/ricozy))
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://guns.lol/ricozy)
