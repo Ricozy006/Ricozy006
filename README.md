@@ -16,11 +16,5 @@ I love exploring how things work “under the hood” and improving my skills ev
 
 ---
 
-## 🔥 My Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Riczy006&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riczy006&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tonlien)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Ricozy9999)
