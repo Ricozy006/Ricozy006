@@ -14,6 +14,9 @@ I love exploring how things work “under the hood” and improving my skills ev
 [![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logoColor=white)](https://www.heidisql.com)
 [![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)](https://www.pfsense.org)
 [![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)](https://opnsense.org)
+[![Proxmox VE](https://img.shields.io/badge/Proxmox-CC0000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Nutanix](https://img.shields.io/badge/Nutanix-1B1B1B?style=for-the-badge&logo=nutanix&logoColor=white)](https://www.nutanix.com)
 
 
 ---
